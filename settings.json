@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "LoLSMPnetwork.aternos.me:39593",
     "port": 27586,
     "version": "",
     "try-creative": false
